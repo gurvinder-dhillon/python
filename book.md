@@ -10,7 +10,7 @@
 ## Chapter 2: Getting Started with Python
 - 2.1 Installing Python and using Python's interactive shell
 - 2.2 Writing and running your first Python program
-- 2.3 Python variables, data types, and basic operations
+- [2.3 Python variables, data types, and basic operations](2.3%20Python%20variables%2C%20data%20types%2C%20and%20basic%20operations.md)
 - 2.4 Input and output in Python
 
 ## Chapter 3: Control Structures
